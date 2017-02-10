@@ -1,5 +1,5 @@
-# workforwardnola
-Job seeker focused website for NOLA. There is a version live at http://careerpathnola.com (hosted by the City of New Orleans).
+# workforwardmuni
+Job seeker focused website for Anchorage, forked from the folks in NOLA https://github.com/codeforamerica/workforwardnola
 
 ## Dev setup
 Requires Ruby 2.2.5 and Postgres (9.5+ preferred).

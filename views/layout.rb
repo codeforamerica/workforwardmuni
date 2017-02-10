@@ -3,7 +3,7 @@ module WorkForwardNola
     # logic for layout.mustache
     class Layout < Mustache
       def title
-        @title || 'Work Forward NOLA'
+        @title || 'Work Forward Anchorage'
       end
     end
   end
